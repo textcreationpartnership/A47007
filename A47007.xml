@@ -1,0 +1,462 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Death triumphant, or, The most renowned, mighty, puissant and irresistible champion and conqueror general of the whole world, Death, described with a descripton [sic] of his notable fights and triumphant victories obtained against all creatures, especially against the sons and daughters of men : also his particular stratagems and numberous regiment of scknesses [sic] and diseases whereby he conquers and subdues mankind : lively set forth to the view of all men for their better preparation for the day of their death and dissolution out of this sinful life / by Andrew Jones.</title>
+            <author>Jones, Andrew.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47007</idno>
+            <idno type="STC">Wing J910</idno>
+            <idno type="STC">ESTC R29880</idno>
+            <idno type="EEBO-CITATION">11217292</idno>
+            <idno type="OCLC">ocm 11217292</idno>
+            <idno type="VID">46859</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47007)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46859)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1444:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Death triumphant, or, The most renowned, mighty, puissant and irresistible champion and conqueror general of the whole world, Death, described with a descripton [sic] of his notable fights and triumphant victories obtained against all creatures, especially against the sons and daughters of men : also his particular stratagems and numberous regiment of scknesses [sic] and diseases whereby he conquers and subdues mankind : lively set forth to the view of all men for their better preparation for the day of their death and dissolution out of this sinful life / by Andrew Jones.</title>
+                  <author>Jones, Andrew.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The fifth edition.</edition>
+               </editionStmt>
+               <extent>[21] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Will. Thackeray ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated frontispiece.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Death.</term>
+               <term>Christian life --  Anglican authors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:46859:1"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of Death</figDesc>
+                  <sp>
+                     <p>I Kill you all</p>
+                  </sp>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:46859:1" rendition="simple:additions"/>
+            <p>Death Triumphant: OR, The moſt Renowned Mighty, Puiſſant, and irreſiſtible Champion and Con<g ref="char:EOLhyphen"/>queror General of the whole World DEATH, Deſcribed.</p>
+            <p>WITH A deſcripton of his notable Fights, and triumphant Victories obtained againſt all Creatures, eſpecially againſt the Sons and Daughters of men.</p>
+            <p>ALSO His particular Stratagems and nume<g ref="char:EOLhyphen"/>rous regiment of Sekneſſes and Diſeaſes, where<g ref="char:EOLhyphen"/>by he conquers and ſubdues Mankind. Lively ſet forth to the view of all men, for their bet<g ref="char:EOLhyphen"/>ter preparation for the day of their death, and diſſolution out of this ſinful life.</p>
+            <p>The Fifth Edition</p>
+            <p>By <hi>Andrew Jones.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>1 Cor. 15.55.</hi>
+               </bibl>
+               <p>O Death where is thy ſting! O Grave where is thy Victory!</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Will. Thackery</hi> at the Sign of the Angel in <hi>Ducklane.</hi> 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46859:2"/>
+            <pb facs="tcp:46859:2"/>
+            <epigraph>
+               <q>
+                  <bibl>Revel. <hi>6.8.</hi>
+                  </bibl>
+                  <p>And I looked, and behold a pale horſe, and his Name that ſat on him was Death.</p>
+               </q>
+               <q>
+                  <bibl>Revel. <hi>14.13.</hi>
+                  </bibl>
+                  <p>And I heard a Voice from Heaven, ſaying unto me, Write, Bleſſed are the dead that die in the Lord from henceforth; yea, ſaith the Spirit, that they may reſt from their labours, and their works follow them.</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>IT is appointed for all men once to die,</hi> ſaith the Apoſtle in <hi>Hebrews</hi> the ninth and the ſeven and twentieth verſe; <hi>and after death comes the Judgement.</hi> And as St. <hi>Paul</hi> ſaith in <hi>Romans</hi> the fifth and the twelfth verſe, <hi>By one man ſin entred into the world,
+<pb facs="tcp:46859:3"/>and death by ſin; and ſo death paſſed upon all men, for that all have ſinned. And death,</hi> ſaith he, in verſe 14. <hi>raigned from Adam to Moſes:</hi> Yea as daily experience tells us, it reigned from <hi>Adam to Chriſt,</hi> from the be<g ref="char:EOLhyphen"/>ginning of the world to the end thereof: There is not a day nor a night that paſſeth, but experienceth this great Truth, and as the Pſalmiſt ſaith of the Sun in the Nineteenth Pſalm. <hi>There is no Speech, nor Language, no Land nor Nation where his voice is not heard; yea, his power and do<g ref="char:EOLhyphen"/>minion is gone forth into all the world.</hi> There<g ref="char:EOLhyphen"/>fore beloved wonder not at all at this con<g ref="char:EOLhyphen"/>quering Conqueror; for who is there a<g ref="char:EOLhyphen"/>mong all the ſons and daughters of men but is able no ſpeak of his greatneſs, and declare his power to the generations to come. Look but upon your Fore-fathers, Grandfather, and other your Predeceſſors, and they will all tell you experimentally of his power and greatneſs. Where is <hi>Alexander?</hi> Where is <hi>Pilate?</hi> Where is <hi>Julius Ceſar?</hi> What's become of all the great and renowned Cham<g ref="char:EOLhyphen"/>pions of the World? are they not all dead and gone and overcome by death; is it not ſaid by <hi>Methuſalem</hi> and the Fathers of old, in <hi>Gen.</hi> 5. that they all died; they lived hun<g ref="char:EOLhyphen"/>dreds
+<pb facs="tcp:46859:3"/>of years, and yet at laſt theſe <hi>died.</hi> And what day is there but you may ſee ſome one or other bemoaning the loſs of ſome one or other of their friends, Oh ſaith one, My Father is taken away by Death, and My Mother, ſaith another; the Husband laments for the death of his Wife, and the Wife for the death of her Husband, Parents for the death of their Children, and the Chil<g ref="char:EOLhyphen"/>dren for the death of their Parents, every day are bemoaning themſelves, and yet notwithſtanding every one is ready to ſay of him, <hi>I hate him, for he telleth me no good, but evil tidings;</hi> They Cannot endure to hear of him, becauſe one time or other he muſt and will vanquiſh and overcome them. They cannot endure to hear talk of him: O how it troubleth and per<g ref="char:EOLhyphen"/>plexeth them, eſpecially thoſe who live at hearts eaſe in pleaſure and proſperity: its a grief indeed to them to hear of death: for why? it brings to them no tidings of good, but altogether of evil; for true it is, death is an ill friend to them that dye in the guilt of their Conſcience, and ſins unre<g ref="char:EOLhyphen"/>pented of, to them its very ſad news indeed to dye: But to thoſe who live honeſtly, walk<g ref="char:EOLhyphen"/>ing as in the day time; having a conſcience
+<pb facs="tcp:46859:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:46859:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:46859:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:46859:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:46859:6"/>void of offence, to them he is ever welcome for why, nothing on this ſide Heaven can be more comfortable to a godly man, then that day; <hi>For bleſſed are the dead that dye in the Lord.</hi>
+            </p>
+            <p>Death to a gracious godly man is a good friend, it brings them the beſt news that e<g ref="char:EOLhyphen"/>ver they heard in all their lives; a meſſage from their Father in Heaven, to ſummon them home to himſelf, to partake of thoſe glorious and heavenly enjoyments, which he hath provided for them from the begin<g ref="char:EOLhyphen"/>ning of the World; they are not afraid of his fears, nor of the power, greatneſs and revenge of this King of Terrors; yet this is that undaunted Champion of the World, that puts the whole World in fear of him, and maketh even Kings to fall down before him; and certain it is, this great and migh<g ref="char:EOLhyphen"/>ty Champion Death will one time or other overcome the whole World; For all muſt dye, that is undoubted: And ſhould all the World joyn together to reſiſt him, they could not be able to ſtand before him: Be pleaſed then to take this deſcription.</p>
+            <pb facs="tcp:46859:6"/>
+            <div type="description">
+               <head>A lively Deſcription of the Great Champi<g ref="char:EOLhyphen"/>on and Conquerour <hi>DEATH.</hi>
+               </head>
+               <lg>
+                  <l>DEATH is a raw-bon'd ſhrimp, nor low nor high,</l>
+                  <l>Yet he hath power to make the higheſt low.</l>
+                  <l>The ſupream Maſter of Mortality,</l>
+                  <l>The poor mans friend, the rich mans foe,</l>
+                  <l>The laſt remains of times anatomy.</l>
+                  <l>A Thief in pace, in pace more ſure than ſlow.</l>
+                  <l>A ſleep, a dream; hence we are ſaid to have</l>
+                  <l>In ſleep our death, and in our bed a grave.</l>
+                  <l>His ſign's in Sagnittary, and the But</l>
+                  <l>He ſhoots at, is Mens Hearts, he never ſits</l>
+                  <l>The ſhafts he ſhoots to the Quiver they are put.</l>
+                  <l>Won is he not by threats nor by entreats,</l>
+                  <pb facs="tcp:46859:7"/>
+                  <l>Trice, power and prayer; at whoſoever he ſhoots</l>
+                  <l>Or aim<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to ſtrike, he never fails, but hits;</l>
+                  <l>Thus fearleſs he, as ever he hath been</l>
+                  <l>Makes his ſtroke to be felt, not to be ſeen-</l>
+               </lg>
+               <lg>
+                  <l>Death is worms Caterer, who when he comes</l>
+                  <l>Will have proviſion, though the Market ſtarve;</l>
+                  <l>And knows before where he intends to come,</l>
+                  <l>And on which carkaſs he intends to carve.</l>
+                  <l>As he awakes the ſin belulled Drones,</l>
+                  <l>And cuts them off, as rightly they deſerve;</l>
+                  <l>Its he that all things to ſubjection brings,</l>
+                  <l>And plays at Foot-ball with the Crown of Kings.</l>
+               </lg>
+               <lg>
+                  <l>Two empty lodges hath he in his head,</l>
+                  <l>Which hath two lights, but now his eyes are gone.</l>
+                  <l>Cheeks had he once, but they are now hollowed,</l>
+                  <l>Beauty he had, but now appears there none;</l>
+                  <l>For all thoſe moving parts are vaniſhed,</l>
+                  <l>Preſenting horror, if but look'd upon;</l>
+                  <l>His colour ſable, and his viſage grim,</l>
+                  <l>Moſt ghaſtly looks do ſtill attend on him.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:46859:7"/>
+                  <l>Fleſhly he was, but now it's pickt away,</l>
+                  <l>The reaſon's this, becauſe he hath ſo much to do.</l>
+                  <l>Cloathed with fleſh, he would be forc'd to ſtay,</l>
+                  <l>And ſhew perchance too much of mercy too,</l>
+                  <l>To ſome young piece, who on ſome Holyday,</l>
+                  <l>Might force him ſore, if ſhe could tell him how;</l>
+                  <l>Which to prevent, and better to reſtrain him,</l>
+                  <l>He goes ſo ugly, none would entertain him.</l>
+               </lg>
+               <lg>
+                  <l>Yet entertain'd he will be, though he be</l>
+                  <l>Contemn'd by the profane Courtezan, whoſe form,</l>
+                  <l>Seems coy to give him hoſpitality;</l>
+                  <l>Yet when he comes, he'l not on heads ad<g ref="char:EOLhyphen"/>journ,</l>
+                  <l>To give them ſummons of Mortality,</l>
+                  <l>Converting that ſome Beauties did adorn,</l>
+                  <l>Her compoſition to corrupted earth,</l>
+                  <l>Whence ſhe deriv<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d both period and birth.</l>
+               </lg>
+               <lg>
+                  <l>Snake like, he comes on us with creeping pace,</l>
+                  <l>And takes us napping, when we leaſt think on him.</l>
+                  <l>In's hand an hour-glaſs, which infers our race,</l>
+                  <pb facs="tcp:46859:8"/>
+                  <l>Is near an end, and though we ſtrive to ſhun him,</l>
+                  <l>He moves when we do move, and that ſame place,</l>
+                  <l>Where to we fly? and think we have out run him;</l>
+                  <l>There he appears, and tells us 'tis not good,</l>
+                  <l>To ſtrive 'gainſt that which cannot be with<g ref="char:EOLhyphen"/>ſtood.</l>
+               </lg>
+               <lg>
+                  <l>If we ſhed tears they're bootleſs, for his eyes,</l>
+                  <l>Inſtead of ſight are molded up in clay:</l>
+                  <l>If we eſſay to pierce his ears with cries,</l>
+                  <l>Vain is our labour, fruitleſs our eſſay:</l>
+                  <l>For is remorſleſs ears all motions flies,</l>
+                  <l>Nor will he give the Prince a longer ſtay.</l>
+                  <l>His payment muſt be preſent, and his doom</l>
+                  <l>Return to earth, thy cradle and thy tomb.</l>
+               </lg>
+               <lg>
+                  <l>Nor is his ſummons onely when we are old,</l>
+                  <l>For age and youth be equally attends:</l>
+                  <l>Nor can we ſay that we have ſurer hold,</l>
+                  <l>In youth than age, nor further from our ends;</l>
+                  <l>Save that we are by Natures verdict told,</l>
+                  <l>With length of years our hope of life extends.</l>
+                  <l>Thus young or old, if Death approach and ſay,</l>
+                  <l>Earth unto earth, we muſt perforce obey.</l>
+                  <pb facs="tcp:46859:8"/>
+                  <l>A breath, bereaving breath, a fading ſhade,</l>
+                  <l>Ever in motion, ſo as it appears;</l>
+                  <l>He comes to tell us whereto we were made,</l>
+                  <l>And like a friend, to rid us of our fears:</l>
+                  <l>So as if his approach were rightly underſtood</l>
+                  <l>He ſhould be welcom'd more with joyes than tears.</l>
+                  <l>Joy to diſſolve to earth; from whence we came,</l>
+                  <l>That after death joy might receive the ſame.</l>
+               </lg>
+               <lg>
+                  <l>Naked his ſcalp, thrill, open is his noſe,</l>
+                  <l>His mouth's from ear to ear, his earthy breath</l>
+                  <l>Is corrupt and noiſom, which makes me ſup<g ref="char:EOLhyphen"/>poſe,</l>
+                  <l>Some moldy Cell's the Mannor bouſe of death.</l>
+                  <l>His ſhapeleſs legs bends backwards when he goes,</l>
+                  <l>His rake lean body ſhrinking underneath:</l>
+                  <l>Feeble he ſeems, bereft of heart and power,</l>
+                  <l>Yet dares he fight the mightieſt Emperour.</l>
+               </lg>
+               <lg>
+                  <l>Now he conſorts with fleſh, onely worms and men,</l>
+                  <l>Prepar'd for worms meat, though he makes reſort</l>
+                  <l>To Countrey, City, Village, now and then,</l>
+                  <l>Yea, where he's ſeldom welcom, to the Court,</l>
+                  <pb facs="tcp:46859:9"/>
+                  <l>There will he enter, and will ſummon them,</l>
+                  <l>And go they muſt, though they be ſorry for't.</l>
+                  <l>Thus Countrey, Cit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Village, Court and all,</l>
+                  <l>Muſt their appearance make, when death doth call.</l>
+               </lg>
+               <lg>
+                  <l>Chop fallen, creſt ſunk, dry-boned, anatomy,</l>
+                  <l>Earth carv'd, mole-eyed, fleſh-hook that puls us hence;</l>
+                  <l>Night crow, ſouls doom, that tells us we muſt die.</l>
+                  <l>Pilgrim remover, that deprives our ſenſe,</l>
+                  <l>Lives date, ſouls hate, that ſends from miſery.</l>
+                  <l>Mans ſharpeſt aſſault, admitting no defence.</l>
+                  <l>Times exit or our entrance to that clime,</l>
+                  <l>Where there is no time nor period of time.</l>
+               </lg>
+               <lg>
+                  <l>Nor ſtands he much upon our dangerous year,</l>
+                  <l>All are alike to him, yea oft we ſee,</l>
+                  <l>When we are moſt ſecure, then he is moſt near.</l>
+                  <l>There is none at all from him can flee,</l>
+                  <l>For as he can tranſpoſe him every where,</l>
+                  <l>Eaſt, Weſt, North, South, with all felicity,</l>
+                  <l>So he can come; ſo coming in his ſtealth,</l>
+                  <l>And take us hence, when we are beſt in health.</l>
+               </lg>
+            </div>
+            <div type="conclusions">
+               <pb facs="tcp:46859:9"/>
+               <p>This is his Deſcripion; Death is his name; King he is over all Kings and Princes; yea terror to Princes, and a moſt bitter enemy to all ungodly wretches; unwelcome he is to moſt, and unlooked for and unthought of almoſt by all.</p>
+               <p>As for ſtrength, who is there that can e<g ref="char:EOLhyphen"/>qual him? for power he is moſt potent, for ſtrength he is invincible, and by all inreſi<g ref="char:EOLhyphen"/>ſtible: His fears are moſt horrible, and his dominion is from Sea to Sea, and from Generation to Generation, over all the World.</p>
+               <p>I remember a ſtory of an old man that had gathered a bundle of ſticks, and car<g ref="char:EOLhyphen"/>rying them upon his back, at laſt grew ve<g ref="char:EOLhyphen"/>ry weary of his burden, and was ſo far tired and ſpent, that he could go no farther; which cauſed him to throw down his ſticks, and cry out for death to come and take away his life, no ſooner had he ſpoke, but death appeared to him, and demand<g ref="char:EOLhyphen"/>ed why he wiſht for him? The man ama<g ref="char:EOLhyphen"/>zed at his ſudden appearance, could ſcarce<g ref="char:EOLhyphen"/>ly ſpeak for fear, yet recovering his ſpirits, ſaid, I pray thee help me up with my bundle of ſticks.</p>
+               <pb facs="tcp:46859:10"/>
+               <p>This is the Condition of many in troubles and afflictions, they will wiſh for death, and O that I might die, but when death appears, they change their notes, and are of another mind; but I ſay unto you all be prepared for his coming, and fear him not: for death to thoſe that are prepared is a welcome friend; yea, when he comes, he puts an end to all controverſies; Death diſſolves many a hard knot which the world cannot: he makes a ſeparation betwixt a Man and Wife, Parents and Children, Maſters and Servants. He obſerves neither Years nor Moneths, neither Weeks nor Dayes, neither Hours nor Minutes. He comes at the firſt as well as at the laſt; yea, the firſt minute of our lives.</p>
+               <p>Death hath one way or other to over<g ref="char:EOLhyphen"/>come all, both old and young; it is no more but a word and a blow with him, to touch and go, yea many times without words, without fickneſs, yea ſuddenly, in a moment. Death is the ableſt Doctor in the world, he cures all diſeaſes inſtantly; if ſo be men be given to ambition, he hath a cure to humble them, and lay their ho<g ref="char:EOLhyphen"/>our in the Duſt; if men are given to pride, Death will teach them humility, and lay
+<pb facs="tcp:46859:10"/>them even with the duſt; if men are given to prodigality, Death will cure them: if men are given to covetouſneſs, Death will make them liberal to the Worms; if men are gi<g ref="char:EOLhyphen"/>ven to Drunkennſs, Death will make them ſober; if an Adulterer, Death will teach him Chaſtity: All theſe cures will he do with one and the ſame Medicine, and ſall we ſay of him, <hi>Our God never made him, but the Devil and Sin brought him into the World?</hi> For the Devil bore a grudge to mankind from the beginning, and hath ever ſince ſet each in diviſion againſt him. <hi>For as by one may ſin entred into the World, and Death by Sin, and ſo Death paſſed o<g ref="char:EOLhyphen"/>ver all men, for that all have ſinned, Rom.</hi> 5.8.</p>
+               <p>Now the principal motive which may encourage Chriſtians to embrace and wel<g ref="char:EOLhyphen"/>come death, is the aſſured hopes of the en<g ref="char:EOLhyphen"/>joyment of theſe everlaſting joyes which every true Chriſtian ſhall enjoy to all eter<g ref="char:EOLhyphen"/>nity in heaven: <hi>therefore welcome death, wel<g ref="char:EOLhyphen"/>come friend, ſaith the godly man. I deſire,</hi> ſaith St. <hi>Paul, to be diſſolved and to be with Chriſt, which is beſt of all; therefore farewell life,</hi> and welcome death, welcome meſſenger of my Father, thou wilt put an and to all
+<pb facs="tcp:46859:11"/>my ſorows, and convey my ſoul into <hi>A<g ref="char:EOLhyphen"/>brahams</hi> boſome. I ſhall ſore from Earth to Heaven, from a Priſon to a Palace, from this ſinful World to the Heavenly Coun<g ref="char:EOLhyphen"/>trey; where I ſhall alwayes be in the pre<g ref="char:EOLhyphen"/>ſence of God and Chriſt, and all the glori<g ref="char:EOLhyphen"/>ous Angels of Heaven, and all the Patriarchs and Prophets, Apoſtles, immortal and bleſ<g ref="char:EOLhyphen"/>ſed Saints: <hi>Where there ſhall be joy without ſorrow, liberty without impriſonment, health without ſickneſs, joy without ſorrow, pleaſure without pain, and that to all Eternity; where one day is better than a thouſand.</hi> Come then O Death at thy pleaſure, for it is a pleaſure to me to die. <hi>To me to live is Chriſt, and to die is gain.</hi> Come thou O my joy, for it is a joy to me to enjoy thee. Welcome Death, the beginning of joy, that firſt-fruit of pleaſure; when thou comeſt, farewel ſorrows, and farewel miſeries, my Winter is paſt, thou art to me a meſſenger of joy. O life thou art my death, O death thou art life; this life is a continual death: but after that death hath ſeized upon this my body, <hi>then ſhall my ſoul go unto her life, adiew therefore O my life, and welcome, yea thrice welcome Death; farewel alſo O Death, and for ever welcom life and immortality and glory for ever.</hi>
+               </p>
+               <pb facs="tcp:46859:11"/>
+               <p>Since death is thus deſcribed, for this he is, be ſtill prepared, leſt unprepared he come, and take you hence for ſpending time amiſs, for death is ſins reward, tranſ<g ref="char:EOLhyphen"/>greſſions doom; <hi>So when thou dieſt thou ſhalt be ſure of this, to have acceſs unto the marri<g ref="char:EOLhyphen"/>age room,</hi> and for thy tomb, inſtead of Ivory , or Marble, or Braſs, ſhall glory cover thee.</p>
+            </div>
+            <div type="instructions">
+               <head>Certain Rules and directions how to live a godly life, that ſo we may die a happy death, and not fear him when he comes.</head>
+               <p>IN the morning when thou firſt awakeſt bleſs God, and give him thanks for his carefull protection, and watching over thee, for the quiet reſt and ſleep he hath beſtowed upon thee, to the refreſhment of thy body, and the renewing of thy mind.</p>
+               <p>Call to mind all the buſineſs of the day following, and then to all thy honeſt en<g ref="char:EOLhyphen"/>devours
+<pb facs="tcp:46859:12"/>crave the direction of God, and his aſſiſtance; <hi>otherwiſe thou toileſt in vain, and thy labours will not proſper.</hi>
+               </p>
+               <p n="2">2. At the evening, when thou haſt re<g ref="char:EOLhyphen"/>tired thy ſelf, call to mind what thou haſt effected, what thou haſt neglected, what evil thou haſt avoided, what thou haſt done.</p>
+               <p n="3">3. When thou prepareſt thy ſelf to bed, <hi>likewiſe prepare thy ſelf as for thy grave; re<g ref="char:EOLhyphen"/>membering that many go to bed and never riſe again, till they be raiſed with the ſound of the laſt trumpet;</hi> thou art nearer thy end by one day, then thou waſt in the morning; There<g ref="char:EOLhyphen"/>fore every night be ſo wiſe as to know that which the fool neglected, <hi>That this night thy Soul may be taken away.</hi>
+               </p>
+               <p n="4">4. For Food, Raiment, the fruit of the body, the Fruits of the Field, for health, wealth, friends, for the mercies and bene<g ref="char:EOLhyphen"/>fits thou receiveſt form God, whether outwardly or inwardly in Body, or in Mind, receive them not, uſe them not, touch them not, without prayer and praiſe, and thankſgiving to him, the <hi>Creator</hi> and giver of all good things.</p>
+               <p n="5">5. Be fully perſwaded in mind, that thy preſent eſtate is beſt for thee, whether pro<g ref="char:EOLhyphen"/>ſperity
+<pb facs="tcp:46859:12"/>or adverſity, whether poor or rich, becauſe it is the good providence of God, and without his will nothing befalleth his children.</p>
+               <p n="6">6. Put away jeſting, with fooliſh talk<g ref="char:EOLhyphen"/>ing, <hi>remembring this, thou keep thy tongue from evil, and thy lips that they ſpeak no guile,</hi> Epheſ. 5.4. <hi>For in many words there cannot want ſin.</hi>
+               </p>
+               <p n="7">7. Endeavour to have ſervent Love, for the gift thereof is ſweet, it covereth a multitude of ſins.</p>
+               <p n="8">8. <hi>To do good, and to diſtrib<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>te, forget not; for with ſuch ſacriſice God is well pleaſed,</hi> Heb. 13.6. <hi>Wherefore ſtop not thine ear at the cry of the poor,</hi> leſt thou likewiſe cry and God will not hear.</p>
+               <p n="9">9. See that in word and converſations of life, thou become a preſident for others to imitate, let this be done without hypocriſie; <hi>and forget not in all things to keep a good con<g ref="char:EOLhyphen"/>ſcience,</hi> for this will bring a man peace at the laſt.</p>
+               <p n="10">10. Practiſe in thy life true humility, <hi>for God reſiſteth the pro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d and giveth grace to the humble. For what have we that we have not received.</hi>
+               </p>
+               <p n="11">11. Whenſoever thou falleſt into ſin, ſpee<g ref="char:EOLhyphen"/>dily
+<pb facs="tcp:46859:13"/>recover thy ſelf again by repentance; and lye not therein with the dead, but riſe a<g ref="char:EOLhyphen"/>gain by faith in Chriſt, <hi>as being alive unto God.</hi>
+               </p>
+               <p n="12">12. Whatſoever thou takeſt in hand, remember thy death, ſo ſhalt thou never do amiſs, if at all times thou eſteem the day of thy life, as the day of thy death; for there is nothing to ſo certain as it; <hi>be there<g ref="char:EOLhyphen"/>fore ſober and watching, that Chriſt at his coming may find thee waking:</hi> And for thy better watch, let this ſound be always in thine ears, <hi>Ariſe ye Dead and come forth to judgment.</hi>
+               </p>
+               <p n="13">13. So ſpend the Sabbath day in thy life, that thy ſoul at death may reſt in bliſs.</p>
+               <p n="14">14. Think with thy ſelf thou haſt defer<g ref="char:EOLhyphen"/>red many years thy repentance, and think how gracious the Lord hath been unto thee, that he hath not cut thee off in the middeſt of thine iniquity, and reſolve with thy ſelf no longer to delay in that kind, but make this thy preſent day, upon pain of thy peril.</p>
+               <p n="15">15. Daily and hourly think upon the Love of Chriſt, never enough to be thought upon; the gracious and admired work of thy Redemption, <hi>By the blood of that im<g ref="char:EOLhyphen"/>maculate, and unſpotted Lamb Chriſt Jeſus, at the very Name whereof, ſhall be bowed all
+<pb facs="tcp:46859:13"/>the knees of heaven and earth;</hi> but at the thought thereof, ſhall be rent all the hearts of both.</p>
+               <p n="16">16. Do not that injury to any other, that thou wouldeſt another ſhould do unto thee, though thou canſt: Oppreſs not the poor by thy might, be not Quarelſome, a Gamſter nor Surety, but for a tried friend, and a good occaſion.</p>
+               <p n="17">17. Keep not company with any notori<g ref="char:EOLhyphen"/>ous and detected perſon, by whom, though not otherways thy Reputation and Credit may be called in queſtion in the opinion of the World: For the company, be it good or evil that thou keepeſt, ſuch ſhalt thou be cenſured to be.</p>
+               <p n="18">18. Be fearful to commit ſin, eſpecially any exemplary ſin, to ſhew the way as it were to others, leſt they periſh therein unre<g ref="char:EOLhyphen"/>pented, and it be one day laid to thy charge.</p>
+               <p>And in this doing, thou wilt be ſo prepa<g ref="char:EOLhyphen"/>red, that thou wilt not fear death when he comes. <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:46859:14"/>
+            <head>Books printed for <hi>William Thackery,</hi> at the <hi>Angel</hi> in <hi>Duck-lane.</hi>
+            </head>
+            <p>
+               <list>
+                  <item>THe School of Grace, or a Book of good Nurture.</item>
+                  <item>Chriſts Firſt Sermon.</item>
+                  <item>Chriſts Laſt Sermon</item>
+                  <item>Chriſtians beſt <unclear>Garment</unclear>.</item>
+                  <item>Chriſtians Bleſſed Choic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</item>
+                  <item>Heavens Glory and Hells Horror.</item>
+                  <item>A Warning-piece to the <unclear>Sloathful</unclear>, Idle, Careleſs, Drunken, and ſecure ones of theſe Times.</item>
+                  <item>Mr. <hi>Fenners</hi> Sermons of Repentance.</item>
+                  <item>A Sermon on <hi>Dives</hi> and <hi>Lazarus.</hi>
+                  </item>
+                  <item>The Chriſtian Comfort.</item>
+               </list>
+               <hi>Theſe are a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l very good books, and are but</hi> 3 <hi>pence a piece,</hi>
+            </p>
+            <p>
+               <list>
+                  <item>The Plain-mans Path-way to Heaven.</item>
+                  <item>The ſin of Pride Arraigned and Condemned.</item>
+                  <item>The Black-Book of Conſcience</item>
+                  <item>The Dreadful Character of a Drunkard.</item>
+                  <item>
+                     <hi>Englands</hi> Faithful Phyſician.</item>
+                  <item>The Fathers laſt Bleſſing to his Children.</item>
+                  <item>Dooms day at hand.</item>
+                  <item>
+                     <hi>Peters</hi> Sermon of Repentance.</item>
+                  <item>The Charitable Chriſtian.</item>
+                  <item>Death Triumphant.</item>
+                  <item>The Godly Mans Gain and the Wicked Mans Woe.</item>
+                  <item>The Singers Sobs.</item>
+                  <item>The Swearer and the Drunkard: Two Brethren in Iniquity, arraigned at the Bar.</item>
+                  <item>A Book of Prayers and Graces</item>
+                  <item>The ready way to get Riches, or the poor mans Cou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſell<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r</item>
+                  <item>The ſhort and ſure way to get Grace and Salvat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on</item>
+                  <item>The Touchſtone of a Chriſtian.</item>
+                  <item>The Path-way to Saving Knowledge.</item>
+                  <item>Every Mans Duty, and the God<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y Mans Practice.</item>
+                  <item>The Chriſtians Guide.</item>
+                  <item>The way to Heaven made plain.</item>
+               </list>
+               <hi>Read them over carefully and practiſe them conſtantly and reſt aſſuredly thou wilt find much comfort in th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thy own Soul; And are but two pince a piece.</hi>
+            </p>
+            <pb facs="tcp:46859:14"/>
+         </div>
+      </back>
+   </text>
+</TEI>
